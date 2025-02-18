@@ -5,7 +5,7 @@
 *   -1000 <= A[i] <= 1000
 **/
 
-public class Solution {
+public class MaxSumContiguousSubarray {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     public int maxSubArray(final int[] A) {
         int n = A.length;
